@@ -1,0 +1,36 @@
+Coindesk : https://www.coindesk.com/ #Done
+utoday : https://u.today/ # complex to scrap (need to do VM scraping)
+Decrypt : https://decrypt.co/
+Bankless : https://www.bankless.com/
+beincrypto : https://beincrypto.com/ #Done
+block : https://www.theblock.co/ #Done
+Bitcoin Magazine: https://bitcoinmagazine.com/ 
+blockworks: https://blockworks.co/ #Done
+coinbureau : https://www.coinbureau.com/
+Defiant : https://thedefiant.io/ #Done
+coingape: https://coingape.com/ #Done
+bitcoinnews : https://news.bitcoin.com/ 
+cryptobrefing : https://cryptobriefing.com/
+bitcoinist : https://bitcoinist.com/ #Done
+cryptopotato : https://cryptopotato.com/ #Done partially (preventing me from scraping)
+cryptodaily: https://cryptodaily.co.uk/
+cryptomufasa: https://cryptomufasa.com/ #Done 
+bitsday : https://bitsday.com/?utm_source=feedspot
+cryptoslate : https://cryptoslate.com/
+99bitcoins: https://99bitcoins.com/
+coinpedia : https://coinpedia.org/?utm_source=feedspot
+bitcoinspot : https://www.bitcoinspot.nl/ # Cannot scrap this is in Dutch
+coingeek : https://coingeek.com/
+kryptomoney : https://www.kryptomoney.com/
+ewn : https://en.ethereumworldnews.com/ # inactive
+cryptoknowmics : https://www.cryptoknowmics.com/?utm_source=feedspot # site is inavtive
+investorbites : https://investorbites.com/ # Good for scraping but inactive
+themorningcrypto : https://themorningcrypto.com/ # Old outdated not really aactive
+digitalexchangeexpress : https://digitalexchangexpress.com/ # Old website not active 
+insidebitcoins : https://insidebitcoins.com/
+# smartoptions : https://smartoptions.io/ (outdated news website)
+bitcoinsinireland :https://bitcoinsinireland.com/ # scrap later not much news
+btcecho : https://www.btc-echo.de/ # scrap later this in Germany
+btchaber : https://www.btchaber.com/ # scrap later this in Turkish
+# cryptopanic : https://cryptopanic.com/ (this has only links to redirect other news site only has headlines)
+# finextra : https://www.finextra.com/ (invalid this not crypto news portal)
